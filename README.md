@@ -1,4 +1,4 @@
-# CCNA Networking Lab – Enterprise Network Design & Implementation
+# CCNA Networking Lab - Enterprise Network Design & Implementation
 
 ## Overview
 This project demonstrates a **comprehensive CCNA-level enterprise network design**, focusing on **network topology, configuration, verification, and testing**.  
@@ -25,9 +25,9 @@ The objective of this project was to design a **scalable, redundant, and well-se
 
 ## Network Topology Overview
 The network is designed using a **three-tier architecture**:
-- **Core Layer** – Core switches providing routing, redundancy, and inter-VLAN communication
-- **Access Layer** – Access switches connecting end devices
-- **Edge / ISP Layer** – Simulated ISP connectivity using routing protocols
+- **Core Layer** - Core switches providing routing, redundancy, and inter-VLAN communication
+- **Access Layer** - Access switches connecting end devices
+- **Edge / ISP Layer** - Simulated ISP connectivity using routing protocols
 
 ### Key Design Highlights
 - Multiple VLANs for departmental segmentation
